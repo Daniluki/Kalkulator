@@ -2,14 +2,7 @@
 #include<math.h>
 int main ()
 {
-int dodawanie1, dodawanie2;
-printf("Podaj 2 liczby do dodawania ");
 
-scanf("%d %d",dodawanie1,dodawanie2);
-getchar();
-
-printf("%d + %d = %d ",dodawanie1,dodawanie2,dodawanie1+dodawanie2);
-getchar();
 
 int a,x,b;
 printf("podaj liczbe ktora chcesz spotegowac \n");

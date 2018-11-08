@@ -2,7 +2,7 @@
 #include<math.h>
 int main ()
 {
-//koment
+//komentarz
 int l1,l2,l3;
 //komentarz
 printf("Podaj 1 liczbe ");

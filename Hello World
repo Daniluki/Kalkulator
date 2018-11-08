@@ -9,7 +9,14 @@ printf("Podaj 1 liczbe ");
 scanf("%d",&l1);
 printf("Podaj 2 liczbe ");
 scanf("%d",&l2);
-printf("Twoja suma wynosi %d",l1+l2);
+printf("Twoja suma wynosi %d \n",l1+l2);
+
+int k1,k2,k3;
+printf("Podaj 1 liczbe ");
+scanf("%d",&k1);
+printf("Podaj 2 liczbe ");
+scanf("%d",&k2);
+printf("Twoja roznica wynosi %d \n",k1-k2);
 
 
 

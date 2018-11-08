@@ -3,3 +3,25 @@
 int main ();
 {
 int a,x,b;
+printf("podaj liczbe ktora chcesz spotegowac \n");
+scanf("%d",&a);
+printf("podaj potege ");
+scanf("%d ",&b);
+int tab[b];
+tab[0]=1;
+for(x=1;x!=b+1;x++)
+{
+    tab[x]=tab[x-1]*a;
+}
+
+
+
+printf("wynik %d",tab[b]);
+
+
+
+
+
+
+return 0;
+

@@ -24,4 +24,4 @@ printf("wynik %d",tab[b]);
 
 
 return 0;
-
+}

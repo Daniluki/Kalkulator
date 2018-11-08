@@ -4,7 +4,7 @@ int main ()
 {
 
 int l1,l2,l3;
-
+//komentarz
 printf("Podaj 1 liczbe ");
 scanf("%d",&l1);
 printf("Podaj 2 liczbe ");

@@ -55,7 +55,15 @@ for(x=1;x!=b+1;x++)
 printf("wynik %d",tab[b]);
 
 
-
+//koment
+    //koment
+    //koment
+    //koment
+    //koment
+    //koment
+    //koment
+    //koment
+    
 
 
 getchar();

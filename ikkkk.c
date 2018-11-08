@@ -22,7 +22,21 @@ printf("Twoja roznica wynosi %d \n",k1-k2);
 
 
 
+int m1,m2;
 
+printf("Podaj 1 liczbe ");
+scanf("%d",&m1);
+printf("Podaj 2 liczbe ");
+scanf("%d",&m2);
+printf("Twoj iloczyn wynosi %d \n",m1*m2);
+
+int d1,d2;
+
+printf("Podaj 1 liczbe ");
+scanf("%d",&d1);
+printf("Podaj 2 liczbe ");
+scanf("%d",&d2);
+printf("Twoj iloraz wynosi %d \n",d1/d2);
 int a,x,b;
 printf("podaj liczbe ktora chcesz spotegowac \n");
 scanf("%d",&a);
